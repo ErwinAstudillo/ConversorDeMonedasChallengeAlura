@@ -11,4 +11,4 @@ la opcion salir.
 
 
 
-<img src="Badge-Conversor.png">
+<img src="/src/Badge-Conversor.png" alt="insignia challenge ONE">
